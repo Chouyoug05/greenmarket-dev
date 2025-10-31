@@ -269,6 +269,19 @@ curl -X POST https://votre-app.vercel.app/api/products \
 
 *(Je vais ajouter une capture d'écran de mon application en ligne ou le lien vers le déploiement)*
 
+**Lien GitHub de mon projet :**
+
+Mon code source complet est disponible sur GitHub :
+```
+https://github.com/Chouyoug05/greenmarket-dev
+```
+
+Le professeur peut consulter :
+- Tous les fichiers source (server.js, package.json, etc.)
+- La documentation complète (README.md, PARTIE3-REPONSES.md)
+- La structure du projet
+- L'historique Git avec tous les commits
+
 **Fonctionnalités que j'ai implémentées dans mon application :**
 
 1. ✅ J'ai créé une API REST complète pour la gestion des produits bio

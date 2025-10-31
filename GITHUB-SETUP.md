@@ -151,8 +151,10 @@ git push -u origin main
 
 Une fois terminé, partagez ce lien au prof :
 ```
-https://github.com/VotreNom/greenmarket-app
+https://github.com/Chouyoug05/greenmarket-dev
 ```
+
+**Mon repository GitHub actuel :** https://github.com/Chouyoug05/greenmarket-dev
 
 Le prof pourra :
 - Voir tout votre code

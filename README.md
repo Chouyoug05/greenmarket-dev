@@ -176,6 +176,13 @@ curl -X POST https://greenmarket-app.vercel.app/api/seed
 
 MIT License - Voir le fichier LICENSE pour plus de détails.
 
+## 📦 Repository GitHub
+
+Ce projet est disponible sur GitHub :
+```
+https://github.com/Chouyoug05/greenmarket-dev
+```
+
 ## 💻 Auteur
 
 Développé par moi-même dans le cadre du cours de Cloud Computing et Déploiement d'applications web (Licence 3 - Développement Web).

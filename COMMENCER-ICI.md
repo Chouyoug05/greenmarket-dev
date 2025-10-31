@@ -61,12 +61,12 @@ Ou copier-coller rapidement :
 git init
 git add .
 git commit -m "Initial commit - Mon projet GreenMarket API"
-git remote add origin https://github.com/MonNom/greenmarket-app.git
+git remote add origin https://github.com/Chouyoug05/greenmarket-dev.git
 git branch -M main
 git push -u origin main
 ```
 
-**Mon lien à partager au prof** : `https://github.com/MonNom/greenmarket-app`
+**Mon lien à partager au prof** : `https://github.com/Chouyoug05/greenmarket-dev`
 
 ---
 
